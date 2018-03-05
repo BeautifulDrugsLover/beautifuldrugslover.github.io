@@ -1,44 +1,35 @@
 
 .navbar-brand {
-  padding: 0px;
+  padding: 10px;
 }
 .navbar-brand>img {
+  height: 100%;
   padding: 0px;
   width: auto;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  height: 50px;
 }
 @import url('https://fonts.googleapis.com/css?family=Exo+2');
 .navbar{
   background-color: white;
   border-bottom: 5px solid white;
-  height: 50px;
+  height: 80px;
   margin-bottom: 0px;
 
 }
 .navbar .navbar-brand {
-  height: 50px;
+  height: 80px;
 }
 
 .navbar .nav >li >a {
-  vertical-align: middle;
-  font-family: 'Exo 2';
-  font-size: 15px;
-  height: 50px;
-}
-.navbar .nav >li >a:hover {
-  vertical-align: baseline;
+  padding-top: 30px;
+  padding-bottom: 30px;
   font-family: 'Exo 2';
   font-size: 20px;
-  font-weight: bold;
-  background-color: green;
+  margin-left: 0px;
 
 }
 .navbar .navbar-toggle {
   padding: 10px;
-  margin: 25px 15px 25px 0
-  background-color:black;
+  margin: 25px 15px 25px 0;
 }
 
 
