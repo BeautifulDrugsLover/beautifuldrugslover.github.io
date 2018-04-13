@@ -1698,5 +1698,6 @@ $timing-race: 4s;
     height:100%;
     position:fixed;
     z-index:9999;
-    background:url(load.gif) no-repeat center center rgba(0,0,0,0.25)
+    background:url(load.gif) no-repeat center center )
+    background-color: black;
 }
